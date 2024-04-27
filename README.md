@@ -23,5 +23,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [recipe page](https://trilok2703.github.io/recipe-page-main/)
+- Website - [Trilok Vallamkonda](https://github.com/trilok2703/)
 - Frontend Mentor - [@trilok2703](https://www.frontendmentor.io/profile/trilok2703)
