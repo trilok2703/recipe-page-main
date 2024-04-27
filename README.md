@@ -8,12 +8,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![desktop](./screenshots/recipe_desktop.png)
-![mobile](./screenshots/recipe_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Recipte page](https://trilok2703.github.io/recipe-page-main/)
 
 ## My process
 
@@ -25,5 +23,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [recipe page](https://trilok2703.github.io/recipe-page-main/)
+- Frontend Mentor - [@trilok2703](https://www.frontendmentor.io/profile/trilok2703)
